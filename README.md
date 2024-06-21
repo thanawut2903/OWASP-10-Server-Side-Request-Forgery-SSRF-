@@ -96,4 +96,4 @@ Server-Side Request Forgery (SSRF)
 
 Video การทำ Cross-Site Request Forgery (CSRF) : https://www.youtube.com/watch?v=ZU_37M_1xg8
 
-Video การทำ Cross-Site Request Forgery (CSRF) :
+Video การทำ Server-Side Request Forgery (SSRF) : https://www.youtube.com/watch?v=ccCP4STs968
